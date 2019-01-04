@@ -5,4 +5,4 @@ yarn-error.log
 *.lock.*
 
 # prisma
-src/generated/
+src/generated/prisma-client/*
